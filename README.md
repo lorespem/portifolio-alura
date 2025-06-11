@@ -22,13 +22,11 @@
         
             <i class="bi bi-github"></i>
             <a href="https://editor.p5js.org/0000111496542xsp/full/YMERkrDXK">Jogo de corrida</a>
-            
-<div>
+        <div>
         
             <i class="bi bi-github"></i>
             <a href="https://editor.p5js.org/0000111496542xsp/full/3piBGlPkR">Quente e frio dinâmico</a>
-                
-                                       
+        <div>                                  
                     
                     
                     <footer class="container py-5">
